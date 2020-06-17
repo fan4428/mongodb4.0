@@ -328,6 +328,5 @@ MongoDB有三种部署方式，分别是单实例、副本集和分布式部署�
         }
     };
     oneTableTest().then();
-### 结果
-此例子没有测试多表，结果和上面的测试一样，只是不同的驱动。
-![result](images/mongoose-result.png)
+
+
