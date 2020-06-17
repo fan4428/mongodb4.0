@@ -1,11 +1,6 @@
 # mongodb4.0
 4.0事物
 
-# MongoDB4.0事务采坑
-
-## 版本
-
-MongoDB server version: 4.0.0
 
 ## 限制
 
